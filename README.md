@@ -12,11 +12,11 @@ A modern, interactive Rock Paper Scissors game built using **Jetpack Compose**. 
 * **Interactive Rules:** A step-by-step guide before you start the game.
 
 ## 📸 Screenshots
-*(Pro-tip: Create a folder named `screenshots` in your repo and add your images there!)*
+
 
 | Home Screen | Profile Setup | Gameplay |
 | :---: | :---: | :---: |
-| <img src="screenshots/home.png" width="200" /> 
+| <img src="screenshots/home.png.png" width="200" /> 
 
 ---
 
