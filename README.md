@@ -14,7 +14,7 @@ A modern, interactive Rock Paper Scissors game built using **Jetpack Compose**. 
 ### 🟢 App Setup & Profile
 | Home | Language | Profile | Selection |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/home.png.png" width="180" /> | <img src="screenshots/language.png" width="180" /> | <img src="screenshots/profile.png" width="180" /> | <img src="screenshots/profile_1.png" width="180" /> |
+| <img src="screenshots/home.png.png" width="180" /> | <img src="screenshots/language.png" width="180" /> | <img src="screenshots/profile.png" width="180" /> | <img src="screenshots/profile_2.png" width="180" /> |
 
 ### 🟡 Rules & Start
 | Start Prompt | Rule Page 1 | Rule Page 2 |
