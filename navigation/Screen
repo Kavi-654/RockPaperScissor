@@ -1,0 +1,7 @@
+sealed class Screen(val route: String) {
+    object Home : Screen("home")
+    object Language : Screen("language")
+    object Profile : Screen("profile")
+    object Rules : Screen("rules")
+    object Game : Screen("game")
+}
